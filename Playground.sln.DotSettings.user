@@ -3,5 +3,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::11D69F45-15FF-49C9-96DF-6B771ADA4FA0::net7.0::SeatingStudents.SeatingStudentsTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::FBB07F00-1B40-447F-98A9-56FE0E465335::net7.0::Palindrome.PalindromeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::508F19EC-0B50-4A04-B04C-F0992D0E3D18::net7.0::DHondt.SimulationTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::508F19EC-0B50-4A04-B04C-F0992D0E3D18::net7.0::DHondt.SimulationTests.Calculate&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
